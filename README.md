@@ -64,8 +64,8 @@ A Hierarchical Deterministic (HD) wallet allows you to derive multiple child key
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/hd-wallet-demo.git
-   cd hd-wallet-demo
+   git clone https://github.com/raadhshenshahhaseeb/encode-zkml-project
+   cd encode-zkml-project
    ```
 
 2. **Install Dependencies**  
@@ -76,7 +76,7 @@ A Hierarchical Deterministic (HD) wallet allows you to derive multiple child key
 
 3. **Run the Example**  
    ```bash
-   go run main.go
+   go run cmd/main.go
    ```
    You will see console output indicating the parent private key, child derivation paths, and verification results.
 
