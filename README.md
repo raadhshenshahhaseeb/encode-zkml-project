@@ -103,7 +103,7 @@ A Hierarchical Deterministic (HD) wallet allows you to derive multiple child key
 
 ## License
 
-All files are provided under the terms of the [SPDX-License-Identifier: LGPL-3.0-only](https://spdx.org/licenses/LGPL-3.0-only.html). See the `LICENSE` file for details. 
+All files are provided under the terms of the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for details. 
 
 ---
 
