@@ -1,0 +1,7 @@
+.idea
+.vscode
+env.json
+env
+coverage.out
+data
+.log
